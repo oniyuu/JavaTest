@@ -236,7 +236,6 @@ public class lotto2 {
     		  Collections.sort(flotto);
     		  
     		  // 연속된 숫자 제외
-    		  
     		  if(n1==1) {
     			  a=0;
     			  for(int j=0; j<5 ; j++) {
@@ -255,7 +254,6 @@ public class lotto2 {
     		  }
     		  
     		  // 모든 수가 짝수인 경우 제외
-    		  
     		  if(n2==1) {        	 
     			  a=0;
     			  for(int j=0; j<6 ; j++) {

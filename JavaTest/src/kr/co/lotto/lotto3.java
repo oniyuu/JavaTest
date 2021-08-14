@@ -23,7 +23,7 @@ public class lotto3 {
 		int n1, n2, n3, n4;
 
 		boolean result = true;
-
+		
 		// 1부터 45까지 생성
 		// 버튼을 만들어서 제외수 하나씩 주석 처리
 //      num1.add(1);

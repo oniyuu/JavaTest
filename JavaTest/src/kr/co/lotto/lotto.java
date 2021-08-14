@@ -170,7 +170,7 @@ public class lotto {
             }
          }
       }
-
+      
       result = true;
 
       // 각 배열별로 순서섞기
